@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Senac.ADS.PPFA.SenacEduca'/Senac.ADS.PPFA.SenacEduca.WinForms.csproj" />
+  <Project Path="Senac.ADS.PPFA.SenacEduca.Model/Senac.ADS.PPFA.SenacEduca.Model.csproj" />
+  <Project Path="Senac.ADS.PPFA.SenacEduca.Repositories/Senac.ADS.PPFA.SenacEduca.Repositories.csproj" />
+</Solution>
